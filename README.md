@@ -5,6 +5,7 @@
 A guided, step-by-step chatbot that helps health insurance members navigate a confusing member portal: finding claims, understanding an Explanation of Benefits (EOB), and checking whether a provider is in-network, all in plain language.
 
 **Author:** Sreeja Pendota
+
 Built as part of a group project in the Machine Learning Fundamentals course at Indiana Wesleyan University (July 2026).
 
 **Live demo:** https://www.chatbase.co/chatbot-iframe/lvIHTl3KY_TT_hjymQHp0
